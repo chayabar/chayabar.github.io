@@ -7,5 +7,5 @@ Hi, I'm Chaya Barbolin, studying at Weizmann Institute of Science
 
 ## Links to other pages:
 
-- [main GitHub Page](https://chayabar.github.io)
+- [html Page](https://chayabar.github.io/WebPagePyCourse/)
 - [exercism](https://chayabar.github.io/exercism)
